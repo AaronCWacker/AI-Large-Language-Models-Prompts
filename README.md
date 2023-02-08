@@ -3,7 +3,7 @@ AI Text Prompting for LLM's
 
 # State of the Art Models
 
-# ChatGPT: https://chat.openai.com/chat
+# ChatGPT: https://chat.openai.com/chat on Mental Health Concerns:
 
 ## Prompt:
 what concerns do __teenagers__ have since COVID-19 related to mental health?
@@ -66,6 +66,10 @@ As a language model AI, I don't have personal experiences but here are some of t
 7. Grief and loss: With high mortality rates associated with COVID-19, elderly people may experience grief and loss due to the death of friends or family members.
 
 # Synopsis:
-Varying one word between 3 prompts on spectrum of age: teenager, adult and elderly have on generating a top 7 list of tips and information.  
+Varying one word between 3 Prompts on spectrum of age: teenager, adult and elderly have on generating a Top 7 list of tips and information.  Each of the seven answers appear to have Three parts, each with a beginning, middle and end and beginnings use a colon character to delimit what seems to be a label.  For the first prompt, the ChatGPT AI doesn't include itself in the Introduction.  The second and third prompt set appear to maintain a memory of the last interaction.  Answers are not stastically ordered in descending order of impact severity however.
+
+
+
+
 
 
